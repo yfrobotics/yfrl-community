@@ -13,6 +13,10 @@
 - 2020/11/29: [Nvidia Jetson Nano介绍与使用指南](posts/2020-11-29-nvidia-jetson-nano-intro-and-guidance.md) - [automaticdai](https://github.com/automaticdai)
 - 2020/10/18: [写在云飞机器人实验室改版之际](posts/2020-10-18-community-campaign.md) - [automaticdai](https://github.com/automaticdai)
 
+## 开源项目
+
+[云飞实验室开源项目汇总 (GitHub)](opensource-projects.md)
+
 ## Commit an issue
 
 如果你发现文章中的错误，你可以提交一个issue。

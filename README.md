@@ -26,59 +26,59 @@
 
 ### 1. 社区与知识分享
 
-1. [yfrobotics.github.io](https://github.com/yfrobotics/yfrobotics.github.io): 云飞机器人实验室主页
-2. [yfrl-community](https://github.com/yfrobotics/yfrl-community): 云飞机器人实验室社区 — 在这里查看社区新闻、投稿文章、交流项目、提供改进及意见。
-3. [robowiki-cn](https://github.com/yfrobotics/robowiki-cn): 云飞机器人中文维基 — 公共参与编辑的机器人知识库: 涵盖机器人理论、设计、算法、编程、建模、仿真等内容。
-4. [self-driving-handbook-cn](https://github.com/yfrobotics/self-driving-handbook-cn): 自动驾驶技术指南（中文） — 介绍自动驾驶的起源、技术以及行业应用。
-5. [awesome-robotics-ee-opensource](https://github.com/automaticdai/awesome-robotics-ee-opensource): 机器人、电子设计、机器学习开源项目列表 (中文)
+- [yfrobotics.github.io](https://github.com/yfrobotics/yfrobotics.github.io): 云飞机器人实验室主页
+- [yfrl-community](https://github.com/yfrobotics/yfrl-community): 云飞机器人实验室社区 — 在这里查看社区新闻、投稿文章、交流项目、提供改进及意见。
+- [robowiki-cn](https://github.com/yfrobotics/robowiki-cn): 云飞机器人中文维基 — 公共参与编辑的机器人知识库: 涵盖机器人理论、设计、算法、编程、建模、仿真等内容。
+- [self-driving-handbook-cn](https://github.com/yfrobotics/self-driving-handbook-cn): 自动驾驶技术指南（中文） — 介绍自动驾驶的起源、技术以及行业应用。
+- [awesome-robotics-ee-opensource](https://github.com/automaticdai/awesome-robotics-ee-opensource): 机器人、电子设计、机器学习开源项目列表 (中文)
 
 ### 2. 机器人系统
 
-1. [MRWS_MultiRobot_Warehouse_Scheduling](https://github.com/automaticdai/MRWS_MultiRobot_Warehouse_Scheduling): MRWS: MultiRobot Warehouse Scheduling Framework
-2. [yfips-indoor-positioning-system](https://github.com/yfrobotics/yfips-indoor-positioning-system): YF-IPS: use low-cost sensors for multi-robot indoor positioning, tracking and navigation.
-3. [ym4-robot-arduino-lib](https://github.com/automaticdai/ym4-robot-arduino-lib): The Arduino Library for the YM4 Mobile Robot platform.
-4. [RoboWebGL](https://github.com/automaticdai/RoboWebGL): RoboWebGL: Simulate a robot arm with three.js and WebGL.
-5. [URDFlex](https://github.com/automaticdai/URDFlex): A flexible web-based URDF viewer and editor.
+- [MRWS_MultiRobot_Warehouse_Scheduling](https://github.com/automaticdai/MRWS_MultiRobot_Warehouse_Scheduling): MRWS: MultiRobot Warehouse Scheduling Framework
+- [yfips-indoor-positioning-system](https://github.com/yfrobotics/yfips-indoor-positioning-system): YF-IPS: use low-cost sensors for multi-robot indoor positioning, tracking and navigation.
+- [ym4-robot-arduino-lib](https://github.com/automaticdai/ym4-robot-arduino-lib): The Arduino Library for the YM4 Mobile Robot platform.
+- [RoboWebGL](https://github.com/automaticdai/RoboWebGL): RoboWebGL: Simulate a robot arm with three.js and WebGL.
+- [URDFlex](https://github.com/automaticdai/URDFlex): A flexible web-based URDF viewer and editor.
 
 ### 3. 机器视觉与感知
 
-1. [rpi-object-detection](https://github.com/automaticdai/rpi-object-detection): Real-time object detection and tracking with Raspberry Pi and OpenCV!
-2. [jetson-object-detection](https://github.com/automaticdai/jetson-object-detection): Real-time object detection and tracking with Jetson and Pytorch!
-3. [guinea-pig-monitor](https://github.com/automaticdai/guinea-pig-monitor): A real-time guinea pig behavior monitoring system that uses YOLO object detection, ByteTrack multi-object tracking, optical flow analysis, and rule-based behavior classification.
-4. [LCS-filter](https://github.com/automaticdai/LCS-filter): Line-Circle-Square (LCS): A Multilayered Geometric Filter for Edge-Based Detection
-5. [laser-tracking-opencv-processing](https://github.com/automaticdai/laser-tracking-opencv-processing): Tracking the pointing postion of a laser using Processing and OpenCV.
-6. [MoCap-Studio](https://github.com/automaticdai/MoCap-Studio): Low-cost markerless motion capturing with multiple cameras.
+- [rpi-object-detection](https://github.com/automaticdai/rpi-object-detection): Real-time object detection and tracking with Raspberry Pi and OpenCV!
+- [jetson-object-detection](https://github.com/automaticdai/jetson-object-detection): Real-time object detection and tracking with Jetson and Pytorch!
+- [guinea-pig-monitor](https://github.com/automaticdai/guinea-pig-monitor): A real-time guinea pig behavior monitoring system that uses YOLO object detection, ByteTrack multi-object tracking, optical flow analysis, and rule-based behavior classification.
+- [LCS-filter](https://github.com/automaticdai/LCS-filter): Line-Circle-Square (LCS): A Multilayered Geometric Filter for Edge-Based Detection
+- [laser-tracking-opencv-processing](https://github.com/automaticdai/laser-tracking-opencv-processing): Tracking the pointing postion of a laser using Processing and OpenCV.
+- [MoCap-Studio](https://github.com/automaticdai/MoCap-Studio): Low-cost markerless motion capturing with multiple cameras.
 
 ### 4. 算法与仿真
 
-1. [a-star-maze-viz](https://github.com/automaticdai/a-star-maze-viz): Solving a maze using A* path planning. Programmed with Python and Taichi.
-2. [ga-optimized-nn-processing](https://github.com/automaticdai/ga-optimized-nn-processing): Demonstration of Genetic algorithm (GA) optimized Neural Network (NN) for 2D position control using Processing (a graphic library).
-3. [ant-colony-optimization-viz](https://github.com/automaticdai/ant-colony-optimization-viz): Implement and visualise Ant Colony Optimization (ACO) algorithm!
+- [a-star-maze-viz](https://github.com/automaticdai/a-star-maze-viz): Solving a maze using A* path planning. Programmed with Python and Taichi.
+- [ga-optimized-nn-processing](https://github.com/automaticdai/ga-optimized-nn-processing): Demonstration of Genetic algorithm (GA) optimized Neural Network (NN) for 2D position control using Processing (a graphic library).
+- [ant-colony-optimization-viz](https://github.com/automaticdai/ant-colony-optimization-viz): Implement and visualise Ant Colony Optimization (ACO) algorithm!
 
 ### 5. 嵌入式与电子设计
 
-1. [rpi-timelapse](https://github.com/automaticdai/rpi-timelapse): Timelapse shooting with Raspberry Pi and PiCam/webcam.
-2. [rpi-mini-camera](https://github.com/automaticdai/rpi-mini-camera): Mini DSLR camera using Raspberry Pi and the high quality camera.
-3. [esp32-ultrasonic-with-calibration](https://github.com/automaticdai/esp32-ultrasonic-with-calibration): Use ESP32 and an ultrasonic sensor to measure distance. The result is calibrated using a temperature sensor (HTU21d) and displayed on an OLED screen.
-4. [i2cdriver-music-player](https://github.com/automaticdai/i2cdriver-music-player): Play simply music using buzzers and the I2CDriver by ExCamera.
-5. [arduino-yaoji](https://github.com/automaticdai/arduino-yaoji): Yaoji is an open-source digital plant based on Arduino and Android.
+- [rpi-timelapse](https://github.com/automaticdai/rpi-timelapse): Timelapse shooting with Raspberry Pi and PiCam/webcam.
+- [rpi-mini-camera](https://github.com/automaticdai/rpi-mini-camera): Mini DSLR camera using Raspberry Pi and the high quality camera.
+- [esp32-ultrasonic-with-calibration](https://github.com/automaticdai/esp32-ultrasonic-with-calibration): Use ESP32 and an ultrasonic sensor to measure distance. The result is calibrated using a temperature sensor (HTU21d) and displayed on an OLED screen.
+- [i2cdriver-music-player](https://github.com/automaticdai/i2cdriver-music-player): Play simply music using buzzers and the I2CDriver by ExCamera.
+- [arduino-yaoji](https://github.com/automaticdai/arduino-yaoji): Yaoji is an open-source digital plant based on Arduino and Android.
 
 ### 6. 物联网 (IoT)
 
-1. [yf-smart-home-iot](https://github.com/yfrobotics/yf-smart-home-iot): IoT system for smart home and home automation.
-2. [rpi-environmental-sensing](https://github.com/automaticdai/rpi-environmental-sensing): An open-source domestic environment sensing system built with Raspberry Pi Zero W + HTU21D + AM2306 + PMS7003. Supports report to MySQL and MQTT broker.
-3. [esp32-iot-htu21d-mqtt](https://github.com/automaticdai/esp32-iot-htu21d-mqtt): A low-power environmental sensing device using ESP32 + HTU21D. Supports MQTT and an OLED display.
-4. [blynk-http-python-lib](https://github.com/automaticdai/blynk-http-python-lib): A python library for exchanging data with Blynk using RESTful APIs.
+- [yf-smart-home-iot](https://github.com/yfrobotics/yf-smart-home-iot): IoT system for smart home and home automation.
+- [rpi-environmental-sensing](https://github.com/automaticdai/rpi-environmental-sensing): An open-source domestic environment sensing system built with Raspberry Pi Zero W + HTU21D + AM2306 + PMS7003. Supports report to MySQL and MQTT broker.
+- [esp32-iot-htu21d-mqtt](https://github.com/automaticdai/esp32-iot-htu21d-mqtt): A low-power environmental sensing device using ESP32 + HTU21D. Supports MQTT and an OLED display.
+- [blynk-http-python-lib](https://github.com/automaticdai/blynk-http-python-lib): A python library for exchanging data with Blynk using RESTful APIs.
 
 ### 7. 互动艺术与创意编程
 
-1. [processing-dot-matrix-cam](https://github.com/automaticdai/processing-dot-matrix-cam): Simulate the looking of dot-matrix with streamed video from a webcam. Programmed with Processing.
-2. [processing-ascii-camera](https://github.com/automaticdai/processing-ascii-camera): Transform real-time camera stream into ASC-II art.
-3. [processing-matrix-rain](https://github.com/automaticdai/processing-matrix-rain): Matrix Animation. Created with Processing.
-4. [processing-cyberpunk-city](https://github.com/automaticdai/processing-cyberpunk-city): Cyberpunk city: A computer generated art programmed by Processing.
-5. [processing-space-travelling](https://github.com/automaticdai/processing-space-travelling): Space-travelling: A computer generated art programmed using Processing.
-6. [processing-doge](https://github.com/automaticdai/processing-doge): This interactive program made with Processing makes doge alive.
-7. [processing-sketches](https://github.com/automaticdai/processing-sketches): A collection of my Processing sketches.
+- [processing-dot-matrix-cam](https://github.com/automaticdai/processing-dot-matrix-cam): Simulate the looking of dot-matrix with streamed video from a webcam. Programmed with Processing.
+- [processing-ascii-camera](https://github.com/automaticdai/processing-ascii-camera): Transform real-time camera stream into ASC-II art.
+- [processing-matrix-rain](https://github.com/automaticdai/processing-matrix-rain): Matrix Animation. Created with Processing.
+- [processing-cyberpunk-city](https://github.com/automaticdai/processing-cyberpunk-city): Cyberpunk city: A computer generated art programmed by Processing.
+- [processing-space-travelling](https://github.com/automaticdai/processing-space-travelling): Space-travelling: A computer generated art programmed using Processing.
+- [processing-doge](https://github.com/automaticdai/processing-doge): This interactive program made with Processing makes doge alive.
+- [processing-sketches](https://github.com/automaticdai/processing-sketches): A collection of my Processing sketches.
 
 ## Commit an issue
 

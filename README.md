@@ -37,6 +37,8 @@
 1. [MRWS_MultiRobot_Warehouse_Scheduling](https://github.com/automaticdai/MRWS_MultiRobot_Warehouse_Scheduling): MRWS: MultiRobot Warehouse Scheduling Framework
 2. [yfips-indoor-positioning-system](https://github.com/yfrobotics/yfips-indoor-positioning-system): YF-IPS: use low-cost sensors for multi-robot indoor positioning, tracking and navigation.
 3. [ym4-robot-arduino-lib](https://github.com/automaticdai/ym4-robot-arduino-lib): The Arduino Library for the YM4 Mobile Robot platform.
+4. [RoboWebGL](https://github.com/automaticdai/RoboWebGL): RoboWebGL: Simulate a robot arm with three.js and WebGL.
+5. [URDFlex](https://github.com/automaticdai/URDFlex): A flexible web-based URDF viewer and editor.
 
 ### 3. 机器视觉与感知
 
@@ -45,11 +47,13 @@
 3. [guinea-pig-monitor](https://github.com/automaticdai/guinea-pig-monitor): A real-time guinea pig behavior monitoring system that uses YOLO object detection, ByteTrack multi-object tracking, optical flow analysis, and rule-based behavior classification.
 4. [LCS-filter](https://github.com/automaticdai/LCS-filter): Line-Circle-Square (LCS): A Multilayered Geometric Filter for Edge-Based Detection
 5. [laser-tracking-opencv-processing](https://github.com/automaticdai/laser-tracking-opencv-processing): Tracking the pointing postion of a laser using Processing and OpenCV.
+6. [MoCap-Studio](https://github.com/automaticdai/MoCap-Studio): Low-cost markerless motion capturing with multiple cameras.
 
 ### 4. 算法与仿真
 
 1. [a-star-maze-viz](https://github.com/automaticdai/a-star-maze-viz): Solving a maze using A* path planning. Programmed with Python and Taichi.
 2. [ga-optimized-nn-processing](https://github.com/automaticdai/ga-optimized-nn-processing): Demonstration of Genetic algorithm (GA) optimized Neural Network (NN) for 2D position control using Processing (a graphic library).
+3. [ant-colony-optimization-viz](https://github.com/automaticdai/ant-colony-optimization-viz): Implement and visualise Ant Colony Optimization (ACO) algorithm!
 
 ### 5. 嵌入式与电子设计
 

@@ -86,6 +86,14 @@
 - [申请/认领文章投稿](https://github.com/yfrobotics/yfrl-community/issues/2)
 - [给我们留言](https://github.com/yfrobotics/yfrl-community/issues/1)
 
+## 赞助支持
+
+如果这些内容对你有帮助，欢迎通过支付宝或微信支付请我们喝一杯咖啡。你的支持会用于实验室的硬件采购与开源项目的持续维护，非常感谢！
+
+<p align="left">
+  <img src="payment-qr-codes.png" alt="支付宝 / 微信支付" width="520">
+</p>
+
 ## License
 
-2010-2024 (c) YunFei Robotics Laboratory. Licensed under CC-BY-SA-NC 4.0.
+2010-2026 (c) YF Robotics Lab. Licensed under CC-BY-SA-NC 4.0.

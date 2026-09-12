@@ -22,7 +22,7 @@
 
 我觉得开源是技术推进的一个重要组成部分。我自己多年以来也在坚持学习和实践开源，虽然感到开源设计中包含硬件极大提高了门槛，但是通过使用标准化设备及开源硬件可以大大提高可重复性。今后如果有机会，我会好好聊聊我对于硬件开源及机器人开源的一些想法，以及和软件开源相比存在哪些机遇和挑战。
 
-（最后更新于：2026年09月12日）
+（最后更新于：2026年09月13日）
 
 ### 1. 社区与知识分享
 
@@ -30,6 +30,7 @@
 - [yfrl-community](https://github.com/yfrobotics/yfrl-community): 云飞机器人实验室社区 — 在这里查看社区新闻、投稿文章、交流项目、提供改进及意见。
 - [robowiki-cn](https://github.com/yfrobotics/robowiki-cn): 云飞机器人中文维基 — 公共参与编辑的机器人知识库: 涵盖机器人理论、设计、算法、编程、建模、仿真等内容。
 - [self-driving-handbook-cn](https://github.com/yfrobotics/self-driving-handbook-cn): 自动驾驶技术指南（中文） — 介绍自动驾驶的起源、技术以及行业应用。
+- [unitree-g1-handbook](https://github.com/yfrobotics/unitree-g1-handbook): 宇树G1人形机器人手册 — 面向初学者，介绍G1人形机器人的硬件、开发环境与使用方法。
 - [awesome-robotics-ee-opensource](https://github.com/automaticdai/awesome-robotics-ee-opensource): 机器人、电子设计、机器学习开源项目列表 (中文)
 
 ### 2. 机器人系统

@@ -7,14 +7,14 @@
 
 社区文章列表如下（原文托管于[实验室主页仓库](https://github.com/yfrobotics/yfrobotics.github.io/tree/master/_posts)）:
 
-- 2026/09/10: [GPT-6 Astra 深度使用体验](https://github.com/yfrobotics/yfrobotics.github.io/blob/master/_posts/2026-09-10-gpt6-astra-experience.md) - [automaticdai](https://github.com/automaticdai)
-- 2026/09/08: [家庭机器人需要跨过信任的门槛](https://github.com/yfrobotics/yfrobotics.github.io/blob/master/_posts/2026-09-08-how-robot-works-for-domestic.md) - [automaticdai](https://github.com/automaticdai)
-- 2023/02/23: [“信息荒原”理论及思考](https://github.com/yfrobotics/yfrobotics.github.io/blob/master/_posts/2023-02-23-information-desert.md) - [automaticdai](https://github.com/automaticdai)
-- 2021/04/03: [在机器人系统中使用舵机](https://github.com/yfrobotics/yfrobotics.github.io/blob/master/_posts/2021-04-03-using-servo-in-robots.md) - [automaticdai](https://github.com/automaticdai)
-- 2021/03/15: [在ROS 2中使用单线激光雷达 (HOKUYO UST-10LX)](https://github.com/yfrobotics/yfrobotics.github.io/blob/master/_posts/2021-03-15-hokuyo-lidar-ros2.md) - [automaticdai](https://github.com/automaticdai)
-- 2020/12/23: [赛博朋克的生活离我们多远](https://github.com/yfrobotics/yfrobotics.github.io/blob/master/_posts/2020-12-23-how-far-is-cyberpunk.md) - [automaticdai](https://github.com/automaticdai)
-- 2020/11/29: [Nvidia Jetson Nano介绍与使用指南](https://github.com/yfrobotics/yfrobotics.github.io/blob/master/_posts/2020-11-29-nvidia-jetson-nano-intro-and-guidance.md) - [automaticdai](https://github.com/automaticdai)
-- 2020/10/18: [写在云飞机器人实验室改版之际](https://github.com/yfrobotics/yfrobotics.github.io/blob/master/_posts/2020-10-18-community-campaign.md) - [automaticdai](https://github.com/automaticdai)
+- 2026/09/10: [GPT-6 Astra 深度使用体验](https://yfrobotics.github.io/jekyll/update/2026/09/10/gpt6-astra-experience.html) - [automaticdai](https://github.com/automaticdai)
+- 2026/09/08: [家庭机器人需要跨过信任的门槛](https://yfrobotics.github.io/jekyll/update/2026/09/08/how-robot-works-for-domestic.html) - [automaticdai](https://github.com/automaticdai)
+- 2023/02/23: [“信息荒原”理论及思考](https://yfrobotics.github.io/jekyll/update/2023/02/23/information-desert.html) - [automaticdai](https://github.com/automaticdai)
+- 2021/04/03: [在机器人系统中使用舵机](https://yfrobotics.github.io/jekyll/update/2021/04/03/using-servo-in-robots.html) - [automaticdai](https://github.com/automaticdai)
+- 2021/03/15: [在ROS 2中使用单线激光雷达 (HOKUYO UST-10LX)](https://yfrobotics.github.io/jekyll/update/2021/03/15/hokuyo-lidar-ros2.html) - [automaticdai](https://github.com/automaticdai)
+- 2020/12/23: [赛博朋克的生活离我们多远](https://yfrobotics.github.io/jekyll/update/2020/12/23/how-far-is-cyberpunk.html) - [automaticdai](https://github.com/automaticdai)
+- 2020/11/29: [Nvidia Jetson Nano介绍与使用指南](https://yfrobotics.github.io/jekyll/update/2020/11/29/nvidia-jetson-nano-intro-and-guidance.html) - [automaticdai](https://github.com/automaticdai)
+- 2020/10/18: [写在云飞机器人实验室改版之际](https://yfrobotics.github.io/jekyll/update/2020/10/18/community-campaign.html) - [automaticdai](https://github.com/automaticdai)
 
 ## 开源项目汇总 (GitHub)
 
@@ -49,7 +49,7 @@
 - [laser-tracking-opencv-processing](https://github.com/automaticdai/laser-tracking-opencv-processing): Tracking the pointing postion of a laser using Processing and OpenCV.
 - [MoCap-Studio](https://github.com/automaticdai/MoCap-Studio): Low-cost markerless motion capturing with multiple cameras.
 
-### 4. 算法与仿真
+### 4. 算法可视化与仿真
 
 - [a-star-maze-viz](https://github.com/automaticdai/a-star-maze-viz): Solving a maze using A* path planning. Programmed with Python and Taichi.
 - [ga-optimized-nn-processing](https://github.com/automaticdai/ga-optimized-nn-processing): Demonstration of Genetic algorithm (GA) optimized Neural Network (NN) for 2D position control using Processing (a graphic library).
@@ -78,7 +78,6 @@
 - [processing-cyberpunk-city](https://github.com/automaticdai/processing-cyberpunk-city): Cyberpunk city: A computer generated art programmed by Processing.
 - [processing-space-travelling](https://github.com/automaticdai/processing-space-travelling): Space-travelling: A computer generated art programmed using Processing.
 - [processing-doge](https://github.com/automaticdai/processing-doge): This interactive program made with Processing makes doge alive.
-- [processing-sketches](https://github.com/automaticdai/processing-sketches): A collection of my Processing sketches.
 
 ## Commit an issue
 

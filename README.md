@@ -22,7 +22,7 @@
 
 我觉得开源是技术推进的一个重要组成部分。我自己多年以来也在坚持学习和实践开源，虽然感到开源设计中包含硬件极大提高了门槛，但是通过使用标准化设备及开源硬件可以大大提高可重复性。今后如果有机会，我会好好聊聊我对于硬件开源及机器人开源的一些想法，以及和软件开源相比存在哪些机遇和挑战。
 
-（最后更新于：2026年09月11日）
+（最后更新于：2026年09月12日）
 
 ### 1. 社区与知识分享
 
@@ -39,6 +39,7 @@
 - [ym4-robot-arduino-lib](https://github.com/automaticdai/ym4-robot-arduino-lib): The Arduino Library for the YM4 Mobile Robot platform.
 - [RoboWebGL](https://github.com/automaticdai/RoboWebGL): RoboWebGL: Simulate a robot arm with three.js and WebGL.
 - [URDFlex](https://github.com/automaticdai/URDFlex): A flexible web-based URDF viewer and editor.
+- [hdf5-cli](https://github.com/automaticdai/hdf5-cli): A read-only, full-screen terminal UI for interactively exploring HDF5 files, with dataset previews and export support.
 
 ### 3. 机器视觉与感知
 
